@@ -1,0 +1,13 @@
+body {
+    color: gainsboro;
+}
+
+h1 {
+    color: black;
+    font-family: 'Roboto Slab', serif;
+}
+
+p {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+}
