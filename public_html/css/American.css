@@ -1,23 +1,23 @@
 body {
-    background: gainsboro;
+    background: salmon;
 }
 
 h1, ul {
-    color: black;
+    color: crimson;
     font-family: 'Roboto Slab', serif;
 }
 
 p {
-    color: black;
+    color: crimson;
     font-family: 'Montserrat', sans-serif;
 }
 
-a {
-    color: black;
-}
-
 footer {
-    color: black;
+    color: crimson;
     text-align: center;
     padding-top: 50px;
+}
+
+a {
+    color: darkred;
 }
