@@ -12,3 +12,9 @@ p {
     font-family: 'Montserrat', sans-serif;
 }
 
+footer {
+    color: brown;
+    text-align: center;
+    padding-top: 50px;
+}
+
