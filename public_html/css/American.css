@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-color: gainsboro;
 }
@@ -12,3 +13,28 @@ p{
     font-family: 'Montserrat', sans-serif;
 }
 
+=======
+body {
+    background: salmon;
+}
+
+h1, ul {
+    color: crimson;
+    font-family: 'Roboto Slab', serif;
+}
+
+p {
+    color: crimson;
+    font-family: 'Montserrat', sans-serif;
+}
+
+footer {
+    color: crimson;
+    text-align: center;
+    padding-top: 50px;
+}
+
+a {
+    color: darkred;
+}
+>>>>>>> 12a0a5e0a96b35fe52b97c054d6f8055fad7419c
