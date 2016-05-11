@@ -1,13 +1,23 @@
-body{
-    background-color: chocolate;
+body {
+   background: burlywood;
 }
 
-h1{
-    color: black;
-    font-family: 'Roboto Slab', serif;
+h1, ul {
+   color: brown;
+   font-family: 'Roboto Slab', serif;
 }
 
-p{
-    color:  black;
-    font-family: 'Montserrat', sans-serif;
+p {
+   color: brown;
+   font-family: 'Montserrat', sans-serif;
+}
+
+footer {
+   color: brown;
+   text-align: center;
+   padding-top: 50px;
+}
+
+a {
+   color: black;
 }

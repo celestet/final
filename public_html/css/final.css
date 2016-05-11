@@ -1,13 +1,23 @@
-body{
-    background-color: gainsboro;
+body {
+   background: gainsboro;
 }
 
-h1{
-    color: black;
-    font-family: 'Roboto Slab', serif;
+h1, ul {
+   color: black;
+   font-family: 'Roboto Slab', serif;
 }
 
-p{
-    color:  black;
-    font-family: 'Montserrat', sans-serif;
+p {
+   color: black;
+   font-family: 'Montserrat', sans-serif;
+}
+
+a {
+   color: black;
+}
+
+footer {
+   color: black;
+   text-align: center;
+   padding-top: 50px;
 }
