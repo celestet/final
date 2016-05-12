@@ -1,27 +1,5 @@
 body {
-<<<<<<< HEAD
-   background: burlywood;
-}
 
-h1, ul {
-   color: brown;
-   font-family: 'Roboto Slab', serif;
-}
-
-p {
-   color: brown;
-   font-family: 'Montserrat', sans-serif;
-}
-
-footer {
-   color: brown;
-   text-align: center;
-   padding-top: 50px;
-}
-
-a {
-   color: black;
-=======
     background: burlywood;
 }
 
@@ -43,5 +21,5 @@ footer {
 
 a {
     color: black;
->>>>>>> 12a0a5e0a96b35fe52b97c054d6f8055fad7419c
+
 }

@@ -1,19 +1,4 @@
-<<<<<<< HEAD
-body{
-    background-color: gainsboro;
-}
 
-h1{
-    color: black;
-    font-family: 'Roboto Slab', serif;
-}
-
-p{
-    color:  black;
-    font-family: 'Montserrat', sans-serif;
-}
-
-=======
 body {
     background: salmon;
 }
@@ -37,4 +22,4 @@ footer {
 a {
     color: darkred;
 }
->>>>>>> 12a0a5e0a96b35fe52b97c054d6f8055fad7419c
+
