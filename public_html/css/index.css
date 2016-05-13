@@ -1,15 +1,15 @@
 body {
-    background: lightcyan;
+    background: lightblue;
 }
 
 ul {
-    color: cyan;
+    color: blue;
     font-family: 'Roboto Slab', serif;
-    alignment: center;
+    text-align: center;
 }
 
 p {
-    color: cyan;
+    color: blue;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -17,7 +17,7 @@ footer {
     font-size: 0.75em;
     text-align: center;
     padding-top: 50px;
-    color: cyan;
+    color: blue;
 }
 
 a {
@@ -30,13 +30,14 @@ header {
     margin: 0 0 30px 0;
     padding: 5px 0 0 0;
     width: 100%;
-    background-color: lightblue;
+    background-color: lightcyan;
 }
 
 h1 {
     font-family: 'Roboto Slab', serif;
     margin: 15px 0;
     font-size: 1.75em;
+    color: blue;
 }
 
 h2 {
@@ -44,6 +45,7 @@ h2 {
     font-size: 0.75em;
     margin: -5px 0 0;
     font-weight: normal;
+    color: blue;
 }
 
 nav {
@@ -69,23 +71,4 @@ nav a {
 
 
 
-/*ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    width: 200px;
-    background-color: #f1f1f1;
-}
 
-li a {
-    display: block;
-    color: #000;
-    padding: 8px 0 8px 16px;
-    text-decoration: none;
-}
-
- Change the link color on hover 
-li a:hover {
-    background-color: #555;
-    color: white;
-}*/
