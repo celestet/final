@@ -5,7 +5,7 @@ body {
 ul {
     color: darkred;
     font-family: 'Roboto Slab', serif;
-    text-align: center;
+    alignment: center;
 }
 
 p {
