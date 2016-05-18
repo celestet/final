@@ -23,7 +23,6 @@ footer {
 
 a {
     color: seagreen;
-<<<<<<< HEAD
 }
 
 header {
@@ -41,9 +40,6 @@ h1 {
     color: teal;
 }
 
-=======
-}
-
 header {
     float: left;
     margin: 0 0 30px 0;
@@ -59,7 +55,6 @@ h1 {
     color: teal;
 }
 
->>>>>>> 985fa2b5c998cb8e7842e34f8cf6d4d8d117498a
 h2 {
     font-family: 'Roboto Slab', serif;
     font-size: 0.75em;
@@ -89,9 +84,6 @@ nav a {
     padding: 15px 10px;
 }
 
-<<<<<<< HEAD
 img {
     max-width: 100%
 }
-=======
->>>>>>> 985fa2b5c998cb8e7842e34f8cf6d4d8d117498a

@@ -5,11 +5,7 @@ body {
 ul {
     color: blue;
     font-family: 'Roboto Slab', serif;
-<<<<<<< HEAD
-    alignment: center;
-=======
     text-align: center;
->>>>>>> 985fa2b5c998cb8e7842e34f8cf6d4d8d117498a
 }
 
 p {
@@ -26,10 +22,7 @@ footer {
 
 a {
     color: blue;
-<<<<<<< HEAD
-=======
     text-decoration: none;
->>>>>>> 985fa2b5c998cb8e7842e34f8cf6d4d8d117498a
 }
 
 header {
@@ -74,12 +67,4 @@ nav li {
 nav a {
     font-weight: 800;
     padding: 15px 10px;
-<<<<<<< HEAD
 }
-=======
-}
-
-
-
-
->>>>>>> 985fa2b5c998cb8e7842e34f8cf6d4d8d117498a
