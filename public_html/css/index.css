@@ -22,6 +22,10 @@ footer {
 
 a {
     color: blue;
+<<<<<<< HEAD
+=======
+    text-decoration: none;
+>>>>>>> 08dbc9682ea2cb748bad7fc16f28d38b044aafc4
 }
 
 header {
@@ -67,6 +71,9 @@ nav a {
     font-weight: 800;
     padding: 15px 10px;
 }
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 08dbc9682ea2cb748bad7fc16f28d38b044aafc4

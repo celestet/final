@@ -5,7 +5,11 @@ body {
 ul {
     color: darkred;
     font-family: 'Roboto Slab', serif;
+<<<<<<< HEAD
     text-align: center;
+=======
+    alignment: center;
+>>>>>>> 08dbc9682ea2cb748bad7fc16f28d38b044aafc4
 }
 
 p {
@@ -41,7 +45,11 @@ h1 {
 
 h2 {
     font-family: 'Roboto Slab', serif;
+<<<<<<< HEAD
     font-size: 0.75em;
+=======
+    font-size: 1em;
+>>>>>>> 08dbc9682ea2cb748bad7fc16f28d38b044aafc4
     margin: -5px 0 0;
     font-weight: normal;
     color: brown;
@@ -61,11 +69,27 @@ nav ul {
 
 nav li {
     display: inline-block;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 08dbc9682ea2cb748bad7fc16f28d38b044aafc4
 }
 
 nav a {
     font-weight: 800;
     padding: 15px 10px;
 }
+<<<<<<< HEAD
 
 
+=======
+img {
+    max-width: 100%
+}
+
+
+nav a {
+    font-weight: 800;
+    padding: 15px 10px;
+}
+>>>>>>> 08dbc9682ea2cb748bad7fc16f28d38b044aafc4

@@ -5,7 +5,11 @@ body {
 ul {
     color: crimson;
     font-family: 'Roboto Slab', serif;
+<<<<<<< HEAD
     text-align: center;
+=======
+    alignment: center;
+>>>>>>> 08dbc9682ea2cb748bad7fc16f28d38b044aafc4
 }
 
 p {
@@ -68,4 +72,10 @@ nav a {
     padding: 15px 10px;
 }
 
+<<<<<<< HEAD
 
+=======
+img {
+    max-width: 100%
+}
+>>>>>>> 08dbc9682ea2cb748bad7fc16f28d38b044aafc4
