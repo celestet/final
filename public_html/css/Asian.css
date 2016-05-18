@@ -2,22 +2,72 @@ body {
     background: lightgreen;
 }
 
-h1, ul {
-    color: seagreen;
+ul {
+    color: teal;
     font-family: 'Roboto Slab', serif;
+    alignment: center;
 }
 
 p {
-    color: seagreen;
+    color: teal;
     font-family: 'Montserrat', sans-serif;
 }
 
 footer {
-    color: seagreen;
+    font-size: 0.75em;
     text-align: center;
     padding-top: 50px;
+    color: teal;
 }
 
 a {
-    color: green;
+    color: seagreen;
+}
+
+header {
+    float: left;
+    margin: 0 0 30px 0;
+    padding: 5px 0 0 0;
+    width: 100%;
+    background-color: lightcyan;
+}
+
+h1 {
+    font-family: 'Roboto Slab', serif;
+    margin: 15px 0;
+    font-size: 1.75em;
+    color: teal;
+}
+
+h2 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 0.75em;
+    margin: -5px 0 0;
+    font-weight: normal;
+    color: teal;
+}
+
+nav {
+    text-align: center;
+    padding: 10px 0;
+    margin: 20px 0 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 10px 0;
+    margin: 0 10px;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav a {
+    font-weight: 800;
+    padding: 15px 10px;
+}
+
+img {
+    max-width: 100%
 }
