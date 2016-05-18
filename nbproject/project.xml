@@ -3,7 +3,11 @@
     <type>org.netbeans.modules.web.clientproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/clientside-project/1">
+<<<<<<< HEAD
+            <name>finalproject</name>
+=======
             <name>Final</name>
+>>>>>>> 12a0a5e0a96b35fe52b97c054d6f8055fad7419c
         </data>
     </configuration>
 </project>
