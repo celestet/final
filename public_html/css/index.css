@@ -9,7 +9,7 @@ ul {
 }
 
 p {
-    color: blue;
+    color: black;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -22,10 +22,9 @@ footer {
 
 a {
     color: blue;
-<<<<<<< HEAD
-=======
+
     text-decoration: none;
->>>>>>> 08dbc9682ea2cb748bad7fc16f28d38b044aafc4
+
 }
 
 header {
@@ -34,6 +33,7 @@ header {
     padding: 5px 0 0 0;
     width: 100%;
     background-color: lightcyan;
+     box-shadow: 10px 10px;
 }
 
 h1 {
@@ -71,9 +71,4 @@ nav a {
     font-weight: 800;
     padding: 15px 10px;
 }
-<<<<<<< HEAD
 
-
-
-=======
->>>>>>> 08dbc9682ea2cb748bad7fc16f28d38b044aafc4

@@ -5,15 +5,11 @@ body {
 ul {
     color: crimson;
     font-family: 'Roboto Slab', serif;
-<<<<<<< HEAD
     text-align: center;
-=======
-    alignment: center;
->>>>>>> 08dbc9682ea2cb748bad7fc16f28d38b044aafc4
 }
 
 p {
-    color: crimson;
+    color: black;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -26,6 +22,7 @@ footer {
 
 a {
     color: darkred;
+    text-decoration: none;
 }
 
 header {
@@ -34,6 +31,7 @@ header {
     padding: 5px 0 0 0;
     width: 100%;
     background-color: lightsalmon;
+    box-shadow: 10px 10px;
 }
 
 h1 {
@@ -72,10 +70,9 @@ nav a {
     padding: 15px 10px;
 }
 
-<<<<<<< HEAD
-
-=======
-img {
-    max-width: 100%
+img{
+    height: 636px;
+    width: 1019px;
 }
->>>>>>> 08dbc9682ea2cb748bad7fc16f28d38b044aafc4
+
+
