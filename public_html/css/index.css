@@ -4,13 +4,13 @@ body {
 
 ul {
     color: blue;
-    font-family: 'Roboto Slab', serif;
+    
     text-align: center;
 }
 
 p {
     color: blue;
-    font-family: 'Montserrat', sans-serif;
+    
 }
 
 footer {
@@ -34,14 +34,14 @@ header {
 }
 
 h1 {
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Raleway', sans-serif;
     margin: 15px 0;
     font-size: 1.75em;
     color: blue;
 }
 
 h2 {
-    font-family: 'Roboto Slab', serif;
+    
     font-size: 0.75em;
     margin: -5px 0 0;
     font-weight: normal;
