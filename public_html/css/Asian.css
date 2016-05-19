@@ -5,6 +5,7 @@ body {
 
 ul {
     color: teal;
+<<<<<<< HEAD
     font-family: 'Roboto', sans-serif;
     font-size: 1em;
 }
@@ -13,6 +14,15 @@ p {
     color: teal;
     font-family: 'Roboto', sans-serif;
     font-size: 1em;
+=======
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+}
+
+p {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+>>>>>>> 98b426f97ee31e8114aed6c02b696ebbdc248322
 }
 
 footer {
@@ -24,6 +34,7 @@ footer {
 
 a {
     color: seagreen;
+    text-decoration: none;
 }
 
 header {
@@ -32,6 +43,7 @@ header {
     padding: 5px 0 0 0;
     width: 100%;
     background-color: lightcyan;
+     box-shadow: 10px 10px;
 }
 
 h1 {
@@ -78,6 +90,7 @@ nav a {
     padding: 15px 10px;
 }
 
-img {
-    max-width: 100%
+img{
+    height: 636px;
+    width: 1019px;
 }

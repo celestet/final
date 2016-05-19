@@ -9,8 +9,13 @@ ul {
 }
 
 p {
+<<<<<<< HEAD
     color: blue;
     
+=======
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+>>>>>>> 98b426f97ee31e8114aed6c02b696ebbdc248322
 }
 
 footer {
@@ -22,7 +27,9 @@ footer {
 
 a {
     color: blue;
+
     text-decoration: none;
+
 }
 
 header {
@@ -31,6 +38,7 @@ header {
     padding: 5px 0 0 0;
     width: 100%;
     background-color: lightcyan;
+     box-shadow: 10px 10px;
 }
 
 h1 {
@@ -68,3 +76,4 @@ nav a {
     font-weight: 800;
     padding: 15px 10px;
 }
+
