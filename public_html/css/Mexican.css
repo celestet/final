@@ -1,9 +1,10 @@
+
 body {
-    background: burlywood;
+    background: salmon;
 }
 
 ul {
-    color: darkred;
+    color: crimson;
     font-family: 'Roboto Slab', serif;
     text-align: center;
 }
@@ -17,11 +18,11 @@ footer {
     font-size: 0.75em;
     text-align: center;
     padding-top: 50px;
-    color: brown;
+    color: crimson;
 }
 
 a {
-    color: brown;
+    color: darkred;
     text-decoration: none;
 }
 
@@ -30,25 +31,24 @@ header {
     margin: 0 0 30px 0;
     padding: 5px 0 0 0;
     width: 100%;
-    background-color: antiquewhite;
-     box-shadow: 5px 5px;
-     text-align: center;
+    background-color: lightsalmon;
+    box-shadow: 5px 5px;
+    text-align: center;
 }
 
 h1 {
-    font-family: 'Chewy', cursive;
+    font-family: 'Roboto Slab', serif;
     margin: 15px 0;
     font-size: 1.75em;
-    color: brown;
+    color: crimson;
 }
 
 h2 {
     font-family: 'Roboto Slab', serif;
     font-size: 0.75em;
-
     margin: -5px 0 0;
     font-weight: normal;
-    color: brown;
+    color: crimson;
 }
 
 nav {
@@ -65,7 +65,6 @@ nav ul {
 
 nav li {
     display: inline-block;
-
 }
 
 nav a {
@@ -77,6 +76,9 @@ img{
     height: 636px;
     width: 1019px;
 }
+
+
+
 
 
 
